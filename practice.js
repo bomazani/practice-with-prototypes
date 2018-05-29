@@ -10,6 +10,7 @@ class Tile {
     }
 }
 
+
 class ControllableTile extends Tile {
     constructor(x, y, type) {
         super(x, y, type);
