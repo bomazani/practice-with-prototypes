@@ -2,6 +2,7 @@
  * Examples from README.md
  */
 
+ 
 class Tile {
     constructor(x, y, type) {
         this.x = x;
